@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I like AI/ML.
+Third year Information System student @ Airlangga University. I like AI/ML. Currently learning LLM.
 <!--
 **HansenDafa/HansenDafa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=HansenDafa)](https://github.com/HansenDafa)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HansenDafa&layout=compact)](https://github.com/HansenDafa)
