@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 ## 📫 Let's Connect!
 - 💼 [LinkedIn](https://www.linkedin.com/in/hansendafa/)
-- 
+
 ---
 
 _✨ "You think this is chaos. But chaos is simply a pattern you are too limited to see." -Grand Admiral Thrawn_
